@@ -1,6 +1,6 @@
 {
-  "name": "typedoc-thunder-theme",
-  "description": "Documentation Theme for Thunder",
+  "name": "typedoc-vortex-theme",
+  "description": "Documentation Theme for Vortex",
   "version": "0.0.1",
   "homepage": "http://typedoc.org/",
   "main": "bin/plugin.js",
@@ -20,10 +20,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/Horyus/typedoc-thunder-theme.git"
+    "url": "git://github.com/Horyus/typedoc-vortex-theme.git"
   },
   "bugs": {
-    "url": "git://github.com/Horyus/typedoc-thunder-theme/issues"
+    "url": "git://github.com/Horyus/typedoc-vortex-theme/issues"
   },
   "license": "Apache-2.0",
   "engines": {

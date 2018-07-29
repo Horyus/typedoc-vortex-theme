@@ -1,4 +1,4 @@
-# Documentation Theme for Thunder
+# Documentation Theme for Vortex
 
 This is a plugin made to be used with TypeDoc.
 
