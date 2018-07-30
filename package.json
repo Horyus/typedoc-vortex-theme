@@ -1,7 +1,7 @@
 {
   "name": "typedoc-vortex-theme",
   "description": "Documentation Theme for Vortex",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "homepage": "http://typedoc.org/",
   "main": "bin/plugin.js",
   "files": [
